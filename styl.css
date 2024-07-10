@@ -1,0 +1,26 @@
+.box{
+    margin-top: 350px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.plus {
+    height: 45px;
+    width: 65px;
+    font-size: 22px;
+    background-color: green;
+    color: white;
+    border:1px solid white;
+    border-radius: 10px;
+}
+
+.minus {
+    height: 45px;
+    width: 65px;
+    font-size: 26px;
+    background-color: red;
+    color: white;
+    border:1px solid white;
+    border-radius: 10px;
+}
